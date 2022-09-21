@@ -3,7 +3,7 @@ body {
   width: 100%;
   height: 100%;
   background-image: linear-gradient(white, skyblue);
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 .inputWrapper {
   margin: 0 auto;
@@ -33,8 +33,8 @@ body {
 }
 .qrCode .qrCodeWrapper {
   position: relative;
-  width: 80%;
-  height: 58%;
+  width: 82%;
+  height: 53%;
   background-color: white;
   margin: 0 auto;
   margin-top: 10%;
@@ -46,9 +46,9 @@ body {
   box-sizing: border-box;
   vertical-align: center;
   width: 100%;
-  font-size: 0.4rem;
+  font-size: 0.45rem;
   color: #696969;
-  padding: 0.4rem;
+  padding: 0.55rem;
   border-bottom: 0.02666667rem solid #DADADA;
 }
 .qrCode .qrLeft {
@@ -75,9 +75,9 @@ body {
 }
 
 .qrCode .qrLeft .qrBottom {
-    font-size: 0.7rem;
+    font-size: 0.73rem;
     color: #6a6a6a;
-    padding: 0 0 0.26666667rem 0.4rem;
+    padding: 0.1333rem 0 0.26666667rem 0.4rem;
     font-weight: 600;
     /* border-top: 0.02666667rem solid #DADADA;
     position: absolute;
@@ -111,17 +111,17 @@ body {
   }
 .qrCode .qrRight img {
   margin-top: 0.18666667rem;
-  width: 81%;
+  width: 75%;
   /* height: 50%; */
 }
 
 .qrCode .qrBottom1{
-  font-size: 0.45rem;
+  font-size: 0.50rem;
   font-weight: 550;
   color: #666A6D;
   position: absolute;
-  bottom: 0.3666667rem;
-  left: 0.21333333rem;
+  bottom: 0.399999rem;
+  left: 0.31333333rem;
   width: 92%;
 }
 
