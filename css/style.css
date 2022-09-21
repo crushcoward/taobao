@@ -34,7 +34,7 @@ body {
 .qrCode .qrCodeWrapper {
   position: relative;
   width: 82%;
-  height: 56%;
+  height: 54%;
   background-color: white;
   margin: 0 auto;
   margin-top: 10%;
@@ -48,13 +48,13 @@ body {
   width: 100%;
   font-size: 0.45rem;
   color: #696969;
-  padding: 0.5rem;
+  padding: 0.45rem;
   border-bottom: 0.02666667rem solid #DADADA;
 }
 .qrCode .qrLeft {
   box-sizing: border-box;
-  width: 45%;
-  height: 58%;
+  width: 44.5%;
+  height: 64%;
   float: left;
   color: #5C6EA7;
   font-size: 0.38rem;
@@ -78,7 +78,7 @@ body {
     font-size: 0.73rem;
     color: #6a6a6a;
     padding: 0.1333rem 0 0.26666667rem 0.4rem;
-    font-weight: 600;
+    font-weight: 650;
     /* border-top: 0.02666667rem solid #DADADA;
     position: absolute;
     bottom: 0.26666667rem;
@@ -104,7 +104,7 @@ body {
 .qrCode .qrRight .newText {
     display: inline-block;
     color: #6a6a6a;
-    font-size: 0.4555555rem;
+    font-size: 0.444444rem;
     font-weight: 550;
     line-height: 0.77333333rem;
     padding-top: 0.13rem;
