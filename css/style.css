@@ -34,7 +34,7 @@ body {
 .qrCode .qrCodeWrapper {
   position: relative;
   width: 82%;
-  height: 53%;
+  height: 56%;
   background-color: white;
   margin: 0 auto;
   margin-top: 10%;
@@ -48,7 +48,7 @@ body {
   width: 100%;
   font-size: 0.45rem;
   color: #696969;
-  padding: 0.55rem;
+  padding: 0.5rem;
   border-bottom: 0.02666667rem solid #DADADA;
 }
 .qrCode .qrLeft {
