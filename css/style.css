@@ -65,7 +65,7 @@ body {
   display: block;
   width: 65%;
   margin: 0 auto;
-  line-height: 0.7333333rem;
+  line-height: 0.6333333rem;
   border-bottom: 0.02666667rem solid #DADADA;
   margin-bottom: 0.58666667rem;
   padding-bottom: 0.13333333rem;
@@ -98,8 +98,8 @@ body {
 }
 .qrCode .qrRight span {
   display: inline-block;
-  font-size: 0.34666667rem;
-  line-height: 0.76333333rem;
+  font-size: 0.33666667rem;
+  line-height: 0.73333333rem;
 }
 .qrCode .qrRight .newText {
     display: inline-block;
