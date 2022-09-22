@@ -54,7 +54,7 @@ body {
 .qrCode .qrLeft {
   box-sizing: border-box;
   width: 44%;
-  height: 64%;
+  height: 65%;
   float: left;
   color: #5C6EA7;
   font-size: 0.38rem;
@@ -110,7 +110,7 @@ body {
     padding-top: 0.13rem;
   }
 .qrCode .qrRight img {
-  margin-top: 0.18666667rem;
+  margin-top: 0.14666667rem;
   width: 74%;
   /* height: 50%; */
 }
