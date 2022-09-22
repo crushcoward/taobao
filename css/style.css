@@ -98,7 +98,7 @@ body {
 }
 .qrCode .qrRight span {
   display: inline-block;
-  font-size: 0.3rem;
+  font-size: 0.33333rem;
   line-height: 0.77333333rem;
 }
 .qrCode .qrRight .newText {
