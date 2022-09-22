@@ -65,7 +65,7 @@ body {
   display: block;
   width: 65%;
   margin: 0 auto;
-  line-height: 0.4333333rem;
+  line-height: 0.5333333rem;
   border-bottom: 0.02666667rem solid #DADADA;
   margin-bottom: 0.58666667rem;
   padding-bottom: 0.13333333rem;
@@ -110,7 +110,7 @@ body {
     padding-top: 0.13rem;
   }
 .qrCode .qrRight img {
-  margin-top: 0.14666667rem;
+  margin-top: 0.08666667rem;
   width: 74%;
   /* height: 50%; */
 }
