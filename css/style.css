@@ -37,9 +37,9 @@ body {
   height: 54%;
   background-color: white;
   margin: 0 auto;
-  margin-top: 9%;
+  margin-top: 10%;
   border: 0.02666667rem solid #DADADA;
-  box-shadow: 0rem 0rem 0.04rem #DADADA;
+  box-shadow: 0rem 0rem 0.08rem #DADADA;
 }
 .qrCode .qrCodeWrapper .qrTiltle {
   font-weight: 550;
@@ -54,7 +54,7 @@ body {
 .qrCode .qrLeft {
   box-sizing: border-box;
   width: 44%;
-  height: 65%;
+  height: 68%;
   float: left;
   color: #5C6EA7;
   font-size: 0.38rem;
@@ -98,20 +98,20 @@ body {
 }
 .qrCode .qrRight span {
   display: inline-block;
-  font-size: 0.33666667rem;
-  line-height: 0.73333333rem;
+  font-size: 0.34666667rem;
+  line-height: 0.77333333rem;
 }
 .qrCode .qrRight .newText {
     display: inline-block;
     color: #6a6a6a;
-    font-size: 0.43333rem;
+    font-size: 0.433333rem;
     font-weight: 550;
     line-height: 0.77333333rem;
     padding-top: 0.13rem;
   }
 .qrCode .qrRight img {
-  margin-top: 0.16666667rem;
-  width: 73%;
+  margin-top: 0.18666667rem;
+  width: 74%;
   /* height: 50%; */
 }
 
